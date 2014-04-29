@@ -1,4 +1,4 @@
-portfolio
+Steven Patterson Personal Portfolio
 =========
 This is a site to showcase my portfolio and advertise my contact information to potential employers. 
 
